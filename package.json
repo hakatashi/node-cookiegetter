@@ -1,0 +1,30 @@
+{
+  "name": "cookiegetter",
+  "version": "0.0.0",
+  "description": "Node.js module to get client-side cookie from various browsers. You will be happy with node-webkit or atom-shell :heart:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hakatashi/node-cookiegetter.git"
+  },
+  "keywords": [
+    "cookie",
+    "browser",
+    "client side application",
+    "cookie sharing",
+    "login",
+    "authentication"
+  ],
+  "author": "hakatashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hakatashi/node-cookiegetter/issues"
+  },
+  "homepage": "https://github.com/hakatashi/node-cookiegetter",
+  "dependencies": {
+    "sqlite3": "^3.0.4"
+  }
+}
